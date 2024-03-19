@@ -1,9 +1,12 @@
 # Hello, I'm Ulari
 <a href="https://linkedin.com/in/ulari"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Welcome to my portfolio! I am passionate about cybersecurity and aim to excel as a cybersecurity analyst. I hold a master's degree in cybersecurity, which has equipped me with a strong foundation in cybersecurity principles, practices, and technologies.
+
+My portfolio showcases my knowledge in threat detection, incident response, and security architecture, demonstrating my ability to contribute effectively to any cybersecurity team or project.
+
+Please take a moment to explore my portfolio and learn more about my skills, and projects. Thank you for visiting!
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
@@ -11,7 +14,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+[Provide skills and associated projects. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
